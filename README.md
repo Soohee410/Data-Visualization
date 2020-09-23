@@ -1,3 +1,3 @@
 # Data-Visualization
 
-I enjoy Data Visualization!
+Visualization Study/Practice
